@@ -1,6 +1,6 @@
 # Entregas
 
-Entrega 1
+# Entrega 1 (Parte I y II)
 
 El trabajo consta de analizar las ventas de palta de la empresa Hass en distintas regiones de Estados Unidos entre los años 2015 y 2018.
 
@@ -31,7 +31,7 @@ Región: región en la que se vendieron las paltas. (en cierto período)
 
 Posteriormente, importé la base de datos a un archivo en formato ".ipynb" dentro de Google Colab  para poder analizar sus datos. Una vez dentro de Google Colab, importé las librerías Pandas, Matplotlib y Seaborn. Gracias a las funciones de estas 3 librerías pude generar 6 gráficas que nos permitirán a nosotros obtener algunos insights útiles sobre las características del negocio de Hass y su evolución en el tiempo.
 
-Entrega 2
+# Entrega 2 (Parte III)
 
 Para la segunda entrega me hubiese gustado hacer un algoritmo de regresión para poder asignarle un precio de venta a los productos en función  de su fecha de venta. Esto sería útil:
 1. Para extrapolar, estimando los precios futuros de venta en fechas posteriores a las analizadas.
